@@ -9,8 +9,8 @@ permalink:        pretty
 # Setup
 title:            orrecled
 tagline:          'A place to develope my thinking and career'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/orrecled" target="_blank">@orrecled</a>.'
-url:              
+description:      'A place to develope my thinking and career. Made by <a href="https://twitter.com/orrecled" target="_blank">@orrecled</a>.'
+url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
