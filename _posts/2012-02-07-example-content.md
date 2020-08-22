@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Example content
+title: My first post
+published: true
 ---
 
 
