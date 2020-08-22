@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first post
-published: false
+published: true
 ---
 
 
