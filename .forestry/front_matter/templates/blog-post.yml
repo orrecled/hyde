@@ -17,4 +17,4 @@ fields:
       format: markdown
   label: body
 pages:
-- _posts/best_blog_ever.md
+- _posts/2020-10-12-best_blog_ever.md
