@@ -1,4 +1,18 @@
 ---
 label: Blog post
 hide_body: false
-fields: []
+fields:
+- name: title_h1
+  type: text
+  config:
+    required: false
+  label: Title H1
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: body
