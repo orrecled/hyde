@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: body
+pages:
+- _posts/best_blog_ever.md
